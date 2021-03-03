@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Oby&description=Hi,%20i%27m%20a%20back%20end%20web%20developer%20and%20i%27m%2021%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/77336459?s=460&u=46ceb06bcc030dbc5e9fdd352d6b2c6141e98641&v=4&backgroundColor=%23ecf0f1&instagram=Officials_Robby&linkedin=Not Found&github=RPWV&twitter=Not Found&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=rpwv&description=Hi,%20i%27m%20a%20back%20end%20web%20developer%20and%20i%27m%2021%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/77336459?v=4&backgroundColor=%23ecf0f1&instagram=Officials_Robby&linkedin=NotFound&github=RPWV&twitter=NotFound&pattern=leaf&colorPattern=%23eaeaea)
 
 ## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <br>
