@@ -42,7 +42,7 @@ const RPWZ = () => {
 
 
 
-**rpwv/RPW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rpwv/rpwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
